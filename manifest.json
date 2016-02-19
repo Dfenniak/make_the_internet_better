@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "Same Picture of Dave Coulier",
-  "description": "Inspired by this Tumblr: http://samepicofdavecoulier.tumblr.com/, prank friends by having Dave follow them everywhere.",
-  "version": "1.0.1",
+  "name": "make every image on the internet a little more victorious",
+  "description": "Inspired by practicaldev: https://github.com/benhalpern/dave-coulier-chrome",
+  "version": "1.0.0",
 
   "content_scripts": [
       {
