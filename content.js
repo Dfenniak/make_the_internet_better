@@ -1,4 +1,4 @@
-replaceInAllCases()
+$(document).ready(replaceInAllCases())
 function replaceInAllCases(){
 	$(document).ready(replaceImages())
 	$( window ).scroll(function() { replaceImages()	});
